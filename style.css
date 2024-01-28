@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(125, 206, 206);
+}
+#grid{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 15px solid #beef;
+    margin: auto;
+}
+h3{
+    font-size: 45px;
+}
